@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">需要授權</string>
+    <string name="CHOOSE_IMAGE">選擇圖片</string>
+    <string name="DOWNLOAD_COMPLETED">下載完成</string>
+    <string name="DOWNLOAD_DESCRIPTION">"將文件保存到“下載”文件夾 "</string>
+    <string name="DOWNLOAD_STARTED">下載已開始</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">沒有外部存儲寫入權限。</string>
+    <string name="INVALID_URL">無效的 URL</string>
+    <string name="LOADING">載入中…</string>
+    <string name="PASSWORD">密碼</string>
+    <string name="SAVE_IMAGE">保存圖片</string>
+    <string name="USERNAME">用戶名</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"已將連結複製到剪貼簿"</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"複製連結"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"在瀏覽器中開啟"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"分享連結"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

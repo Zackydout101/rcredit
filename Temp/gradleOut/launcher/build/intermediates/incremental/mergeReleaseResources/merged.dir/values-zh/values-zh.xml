@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">需要授权</string>
+    <string name="CHOOSE_IMAGE">选择图片</string>
+    <string name="DOWNLOAD_COMPLETED">下载完成</string>
+    <string name="DOWNLOAD_DESCRIPTION">"将文件保存到“下载”文件夹 "</string>
+    <string name="DOWNLOAD_STARTED">下载已开始</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">没有外部存储写入权限。</string>
+    <string name="INVALID_URL">无效的 URL</string>
+    <string name="LOADING">加载中…</string>
+    <string name="PASSWORD">密码</string>
+    <string name="SAVE_IMAGE">保存图片</string>
+    <string name="USERNAME">用户名</string>
+</resources>

@@ -1,0 +1,254 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 Unity.Services.Core.Scheduler.Internal.ActionScheduler Unity.Services.Core.Registration.CorePackageInitializer::get_ActionScheduler()
+extern void CorePackageInitializer_get_ActionScheduler_m4758B38AE54D269CE99429370DF7137BA2480246 (void);
+// 0x00000002 System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_ActionScheduler(Unity.Services.Core.Scheduler.Internal.ActionScheduler)
+extern void CorePackageInitializer_set_ActionScheduler_m78AD45D13678079223AFBB53777BFEF7293CE89E (void);
+// 0x00000003 Unity.Services.Core.Device.InstallationId Unity.Services.Core.Registration.CorePackageInitializer::get_InstallationId()
+extern void CorePackageInitializer_get_InstallationId_m5059CE2D1A59301B9AC44CC759316855689B3833 (void);
+// 0x00000004 System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_InstallationId(Unity.Services.Core.Device.InstallationId)
+extern void CorePackageInitializer_set_InstallationId_mFE19D1446597D946D90A7346E31A9F3EABC0733D (void);
+// 0x00000005 Unity.Services.Core.Configuration.ProjectConfiguration Unity.Services.Core.Registration.CorePackageInitializer::get_ProjectConfig()
+extern void CorePackageInitializer_get_ProjectConfig_m1D6F9A307B95B3841474662814A0EFB0E5074C54 (void);
+// 0x00000006 System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_ProjectConfig(Unity.Services.Core.Configuration.ProjectConfiguration)
+extern void CorePackageInitializer_set_ProjectConfig_mCD4190FAA401FBF5E71C9D4E8FD13D3738BF1B7C (void);
+// 0x00000007 Unity.Services.Core.Environments.Internal.Environments Unity.Services.Core.Registration.CorePackageInitializer::get_Environments()
+extern void CorePackageInitializer_get_Environments_m4F23E5BF06513D5166C56A2C3D8940340347E183 (void);
+// 0x00000008 System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_Environments(Unity.Services.Core.Environments.Internal.Environments)
+extern void CorePackageInitializer_set_Environments_mA823A9F2E7CEE7646985B374AA77F2CBF874DD88 (void);
+// 0x00000009 Unity.Services.Core.Configuration.CloudProjectId Unity.Services.Core.Registration.CorePackageInitializer::get_CloudProjectId()
+extern void CorePackageInitializer_get_CloudProjectId_m768AFBE8FC7B0709C18A4FDD8C4EA28AEA2BE2B0 (void);
+// 0x0000000A System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_CloudProjectId(Unity.Services.Core.Configuration.CloudProjectId)
+extern void CorePackageInitializer_set_CloudProjectId_m945A196D63F094A5E0C77D2698A017CC5BC4262B (void);
+// 0x0000000B Unity.Services.Core.Telemetry.Internal.IDiagnosticsFactory Unity.Services.Core.Registration.CorePackageInitializer::get_DiagnosticsFactory()
+extern void CorePackageInitializer_get_DiagnosticsFactory_mF83FABF14E704D010FBC51A2058C3ACB04D460D4 (void);
+// 0x0000000C System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_DiagnosticsFactory(Unity.Services.Core.Telemetry.Internal.IDiagnosticsFactory)
+extern void CorePackageInitializer_set_DiagnosticsFactory_m18F48EBF3101844A2962BCCDA584EFC27CA7340A (void);
+// 0x0000000D Unity.Services.Core.Telemetry.Internal.IMetricsFactory Unity.Services.Core.Registration.CorePackageInitializer::get_MetricsFactory()
+extern void CorePackageInitializer_get_MetricsFactory_mA68F4292AC0765327ED53741A7B5879D77376F8C (void);
+// 0x0000000E System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_MetricsFactory(Unity.Services.Core.Telemetry.Internal.IMetricsFactory)
+extern void CorePackageInitializer_set_MetricsFactory_m7DC7C60AF556679EBE4C281A74A99902B50A5112 (void);
+// 0x0000000F Unity.Services.Core.Threading.Internal.UnityThreadUtilsInternal Unity.Services.Core.Registration.CorePackageInitializer::get_UnityThreadUtils()
+extern void CorePackageInitializer_get_UnityThreadUtils_mFCB9401F9A8AC81376915CB92C7DA23773178E94 (void);
+// 0x00000010 System.Void Unity.Services.Core.Registration.CorePackageInitializer::set_UnityThreadUtils(Unity.Services.Core.Threading.Internal.UnityThreadUtilsInternal)
+extern void CorePackageInitializer_set_UnityThreadUtils_m42214246BD985C5E2E4A7241BE3A03CC4CE8EA51 (void);
+// 0x00000011 System.Void Unity.Services.Core.Registration.CorePackageInitializer::Register()
+extern void CorePackageInitializer_Register_mCFD2E04BF259466377AF85D3E55E3B90FD9BFF0E (void);
+// 0x00000012 System.Threading.Tasks.Task Unity.Services.Core.Registration.CorePackageInitializer::Initialize(Unity.Services.Core.Internal.CoreRegistry)
+extern void CorePackageInitializer_Initialize_m13969C0F1B23D9473BD32E68CA16B7F39AA180C6 (void);
+// 0x00000013 System.Boolean Unity.Services.Core.Registration.CorePackageInitializer::HaveInitOptionsChanged()
+extern void CorePackageInitializer_HaveInitOptionsChanged_m072121668148BF472F3F754D53AB487A0A6662E9 (void);
+// 0x00000014 System.Void Unity.Services.Core.Registration.CorePackageInitializer::FreeOptionsDependantComponents()
+extern void CorePackageInitializer_FreeOptionsDependantComponents_m12C03EB40829FA386D63705B08341C651268622F (void);
+// 0x00000015 System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeInstallationId()
+extern void CorePackageInitializer_InitializeInstallationId_m6210CB8113D6EAEC95C67EACEFE17DD12E68D69D (void);
+// 0x00000016 System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeActionScheduler()
+extern void CorePackageInitializer_InitializeActionScheduler_m87491450D79BF92EED2D3A86C1FBBCB358B0E1A4 (void);
+// 0x00000017 System.Threading.Tasks.Task Unity.Services.Core.Registration.CorePackageInitializer::InitializeProjectConfigAsync(Unity.Services.Core.InitializationOptions)
+extern void CorePackageInitializer_InitializeProjectConfigAsync_m7A0AF91B28AC503A93A5D0D5A2523228E079D136 (void);
+// 0x00000018 System.Threading.Tasks.Task`1<Unity.Services.Core.Configuration.ProjectConfiguration> Unity.Services.Core.Registration.CorePackageInitializer::GenerateProjectConfigurationAsync(Unity.Services.Core.InitializationOptions)
+extern void CorePackageInitializer_GenerateProjectConfigurationAsync_mF7DFC238E2245114C5615E652D55DE5FF2FFB551 (void);
+// 0x00000019 System.Threading.Tasks.Task`1<Unity.Services.Core.Configuration.SerializableProjectConfiguration> Unity.Services.Core.Registration.CorePackageInitializer::GetSerializedConfigOrEmptyAsync()
+extern void CorePackageInitializer_GetSerializedConfigOrEmptyAsync_mB1590D8A5D759EF7CDC74CF0FB60CC2CAFB61DD5 (void);
+// 0x0000001A System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeEnvironments(Unity.Services.Core.Configuration.Internal.IProjectConfiguration)
+extern void CorePackageInitializer_InitializeEnvironments_m1D92F66DC59BC39861D0BCD7AA14C3D5572F38ED (void);
+// 0x0000001B System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeCloudProjectId()
+extern void CorePackageInitializer_InitializeCloudProjectId_mF4AB2E1BB7F6348612033279074871DFBAC9F91B (void);
+// 0x0000001C System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeDiagnostics(Unity.Services.Core.Scheduler.Internal.IActionScheduler,Unity.Services.Core.Configuration.Internal.IProjectConfiguration,Unity.Services.Core.Configuration.Internal.ICloudProjectId,Unity.Services.Core.Environments.Internal.IEnvironments)
+extern void CorePackageInitializer_InitializeDiagnostics_mAADE187ADB889EAA69D7DB5DA923A2A5B0815545 (void);
+// 0x0000001D System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeMetrics(Unity.Services.Core.Scheduler.Internal.IActionScheduler,Unity.Services.Core.Configuration.Internal.IProjectConfiguration,Unity.Services.Core.Configuration.Internal.ICloudProjectId,Unity.Services.Core.Environments.Internal.IEnvironments)
+extern void CorePackageInitializer_InitializeMetrics_mD1DE2A3960B9341DADC21C3EE63D62FC3C6C282F (void);
+// 0x0000001E System.Void Unity.Services.Core.Registration.CorePackageInitializer::InitializeUnityThreadUtils()
+extern void CorePackageInitializer_InitializeUnityThreadUtils_m61D8E258F509692B23FACA5DC4D9DBAE5533AF8B (void);
+// 0x0000001F System.Threading.Tasks.Task`1<Unity.Services.Core.Telemetry.Internal.IDiagnosticsFactory> Unity.Services.Core.Registration.CorePackageInitializer::CreateDiagnosticsComponents()
+extern void CorePackageInitializer_CreateDiagnosticsComponents_m698DE6BC64D7969F8DCA14AE6A1DA98112913EB2 (void);
+// 0x00000020 System.Threading.Tasks.Task`1<System.String> Unity.Services.Core.Registration.CorePackageInitializer::GetSerializedProjectConfigurationAsync()
+extern void CorePackageInitializer_GetSerializedProjectConfigurationAsync_m478880F9CD2DB17C6CC7B597B4DDB33E2CE1697B (void);
+// 0x00000021 System.Void Unity.Services.Core.Registration.CorePackageInitializer::.ctor()
+extern void CorePackageInitializer__ctor_m6FD7E4A9C9A9480A2A83B8C1B78469BD73560321 (void);
+// 0x00000022 System.Void Unity.Services.Core.Registration.CorePackageInitializer::<Initialize>g__RegisterProvidedComponents|35_0(Unity.Services.Core.Registration.CorePackageInitializer/<>c__DisplayClass35_0&)
+extern void CorePackageInitializer_U3CInitializeU3Eg__RegisterProvidedComponentsU7C35_0_m2B6B9E39256CAB307980D621348EEC4B9188F257 (void);
+// 0x00000023 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<Initialize>d__35::MoveNext()
+extern void U3CInitializeU3Ed__35_MoveNext_mF07320CB7B98B5BC0DBCCF4D392171C77C18CF5B (void);
+// 0x00000024 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<Initialize>d__35::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CInitializeU3Ed__35_SetStateMachine_mE6CF3E8B5C4CC645E62F8B574FC527B9F7D83B75 (void);
+// 0x00000025 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<InitializeProjectConfigAsync>d__40::MoveNext()
+extern void U3CInitializeProjectConfigAsyncU3Ed__40_MoveNext_mAF56462F44D992381BA4E81BFBE045BD0E08BE21 (void);
+// 0x00000026 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<InitializeProjectConfigAsync>d__40::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CInitializeProjectConfigAsyncU3Ed__40_SetStateMachine_m0AD1371BCCAB71EDE848E49C68400A5B212DDC82 (void);
+// 0x00000027 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<GenerateProjectConfigurationAsync>d__41::MoveNext()
+extern void U3CGenerateProjectConfigurationAsyncU3Ed__41_MoveNext_mDBC790EDF3EFAE1C285301576DB99B12A24E4F98 (void);
+// 0x00000028 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<GenerateProjectConfigurationAsync>d__41::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CGenerateProjectConfigurationAsyncU3Ed__41_SetStateMachine_mA2DA0351A1B833E16F807108A5E6C134EF6DDB6C (void);
+// 0x00000029 System.Void Unity.Services.Core.Registration.CorePackageInitializer/<GetSerializedConfigOrEmptyAsync>d__42::MoveNext()
+extern void U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_MoveNext_m95E2BBFFA6E58A65C141CFA0B3D846913E85EE2A (void);
+// 0x0000002A System.Void Unity.Services.Core.Registration.CorePackageInitializer/<GetSerializedConfigOrEmptyAsync>d__42::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_SetStateMachine_m80DAB7D0B51C4238986E344971298A5A52B013FE (void);
+// 0x0000002B System.Void Unity.Services.Core.Registration.CorePackageInitializer/<CreateDiagnosticsComponents>d__48::MoveNext()
+extern void U3CCreateDiagnosticsComponentsU3Ed__48_MoveNext_m615EBC4117B48BADFB6156231A7903C59C9540D8 (void);
+// 0x0000002C System.Void Unity.Services.Core.Registration.CorePackageInitializer/<CreateDiagnosticsComponents>d__48::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CCreateDiagnosticsComponentsU3Ed__48_SetStateMachine_mA3C5CB517189F06D89759C4D32000F86D07FFC25 (void);
+// 0x0000002D System.Void Unity.Services.Core.Registration.CorePackageInitializer/<GetSerializedProjectConfigurationAsync>d__49::MoveNext()
+extern void U3CGetSerializedProjectConfigurationAsyncU3Ed__49_MoveNext_m76AF454089F5F08FC424DA40DDE66B4602982158 (void);
+// 0x0000002E System.Void Unity.Services.Core.Registration.CorePackageInitializer/<GetSerializedProjectConfigurationAsync>d__49::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CGetSerializedProjectConfigurationAsyncU3Ed__49_SetStateMachine_m7C84C3BE41874DB17831DD6C3A71E20C63C86E6B (void);
+static Il2CppMethodPointer s_methodPointers[46] = 
+{
+	CorePackageInitializer_get_ActionScheduler_m4758B38AE54D269CE99429370DF7137BA2480246,
+	CorePackageInitializer_set_ActionScheduler_m78AD45D13678079223AFBB53777BFEF7293CE89E,
+	CorePackageInitializer_get_InstallationId_m5059CE2D1A59301B9AC44CC759316855689B3833,
+	CorePackageInitializer_set_InstallationId_mFE19D1446597D946D90A7346E31A9F3EABC0733D,
+	CorePackageInitializer_get_ProjectConfig_m1D6F9A307B95B3841474662814A0EFB0E5074C54,
+	CorePackageInitializer_set_ProjectConfig_mCD4190FAA401FBF5E71C9D4E8FD13D3738BF1B7C,
+	CorePackageInitializer_get_Environments_m4F23E5BF06513D5166C56A2C3D8940340347E183,
+	CorePackageInitializer_set_Environments_mA823A9F2E7CEE7646985B374AA77F2CBF874DD88,
+	CorePackageInitializer_get_CloudProjectId_m768AFBE8FC7B0709C18A4FDD8C4EA28AEA2BE2B0,
+	CorePackageInitializer_set_CloudProjectId_m945A196D63F094A5E0C77D2698A017CC5BC4262B,
+	CorePackageInitializer_get_DiagnosticsFactory_mF83FABF14E704D010FBC51A2058C3ACB04D460D4,
+	CorePackageInitializer_set_DiagnosticsFactory_m18F48EBF3101844A2962BCCDA584EFC27CA7340A,
+	CorePackageInitializer_get_MetricsFactory_mA68F4292AC0765327ED53741A7B5879D77376F8C,
+	CorePackageInitializer_set_MetricsFactory_m7DC7C60AF556679EBE4C281A74A99902B50A5112,
+	CorePackageInitializer_get_UnityThreadUtils_mFCB9401F9A8AC81376915CB92C7DA23773178E94,
+	CorePackageInitializer_set_UnityThreadUtils_m42214246BD985C5E2E4A7241BE3A03CC4CE8EA51,
+	CorePackageInitializer_Register_mCFD2E04BF259466377AF85D3E55E3B90FD9BFF0E,
+	CorePackageInitializer_Initialize_m13969C0F1B23D9473BD32E68CA16B7F39AA180C6,
+	CorePackageInitializer_HaveInitOptionsChanged_m072121668148BF472F3F754D53AB487A0A6662E9,
+	CorePackageInitializer_FreeOptionsDependantComponents_m12C03EB40829FA386D63705B08341C651268622F,
+	CorePackageInitializer_InitializeInstallationId_m6210CB8113D6EAEC95C67EACEFE17DD12E68D69D,
+	CorePackageInitializer_InitializeActionScheduler_m87491450D79BF92EED2D3A86C1FBBCB358B0E1A4,
+	CorePackageInitializer_InitializeProjectConfigAsync_m7A0AF91B28AC503A93A5D0D5A2523228E079D136,
+	CorePackageInitializer_GenerateProjectConfigurationAsync_mF7DFC238E2245114C5615E652D55DE5FF2FFB551,
+	CorePackageInitializer_GetSerializedConfigOrEmptyAsync_mB1590D8A5D759EF7CDC74CF0FB60CC2CAFB61DD5,
+	CorePackageInitializer_InitializeEnvironments_m1D92F66DC59BC39861D0BCD7AA14C3D5572F38ED,
+	CorePackageInitializer_InitializeCloudProjectId_mF4AB2E1BB7F6348612033279074871DFBAC9F91B,
+	CorePackageInitializer_InitializeDiagnostics_mAADE187ADB889EAA69D7DB5DA923A2A5B0815545,
+	CorePackageInitializer_InitializeMetrics_mD1DE2A3960B9341DADC21C3EE63D62FC3C6C282F,
+	CorePackageInitializer_InitializeUnityThreadUtils_m61D8E258F509692B23FACA5DC4D9DBAE5533AF8B,
+	CorePackageInitializer_CreateDiagnosticsComponents_m698DE6BC64D7969F8DCA14AE6A1DA98112913EB2,
+	CorePackageInitializer_GetSerializedProjectConfigurationAsync_m478880F9CD2DB17C6CC7B597B4DDB33E2CE1697B,
+	CorePackageInitializer__ctor_m6FD7E4A9C9A9480A2A83B8C1B78469BD73560321,
+	CorePackageInitializer_U3CInitializeU3Eg__RegisterProvidedComponentsU7C35_0_m2B6B9E39256CAB307980D621348EEC4B9188F257,
+	U3CInitializeU3Ed__35_MoveNext_mF07320CB7B98B5BC0DBCCF4D392171C77C18CF5B,
+	U3CInitializeU3Ed__35_SetStateMachine_mE6CF3E8B5C4CC645E62F8B574FC527B9F7D83B75,
+	U3CInitializeProjectConfigAsyncU3Ed__40_MoveNext_mAF56462F44D992381BA4E81BFBE045BD0E08BE21,
+	U3CInitializeProjectConfigAsyncU3Ed__40_SetStateMachine_m0AD1371BCCAB71EDE848E49C68400A5B212DDC82,
+	U3CGenerateProjectConfigurationAsyncU3Ed__41_MoveNext_mDBC790EDF3EFAE1C285301576DB99B12A24E4F98,
+	U3CGenerateProjectConfigurationAsyncU3Ed__41_SetStateMachine_mA2DA0351A1B833E16F807108A5E6C134EF6DDB6C,
+	U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_MoveNext_m95E2BBFFA6E58A65C141CFA0B3D846913E85EE2A,
+	U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_SetStateMachine_m80DAB7D0B51C4238986E344971298A5A52B013FE,
+	U3CCreateDiagnosticsComponentsU3Ed__48_MoveNext_m615EBC4117B48BADFB6156231A7903C59C9540D8,
+	U3CCreateDiagnosticsComponentsU3Ed__48_SetStateMachine_mA3C5CB517189F06D89759C4D32000F86D07FFC25,
+	U3CGetSerializedProjectConfigurationAsyncU3Ed__49_MoveNext_m76AF454089F5F08FC424DA40DDE66B4602982158,
+	U3CGetSerializedProjectConfigurationAsyncU3Ed__49_SetStateMachine_m7C84C3BE41874DB17831DD6C3A71E20C63C86E6B,
+};
+extern void U3CInitializeU3Ed__35_MoveNext_mF07320CB7B98B5BC0DBCCF4D392171C77C18CF5B_AdjustorThunk (void);
+extern void U3CInitializeU3Ed__35_SetStateMachine_mE6CF3E8B5C4CC645E62F8B574FC527B9F7D83B75_AdjustorThunk (void);
+extern void U3CInitializeProjectConfigAsyncU3Ed__40_MoveNext_mAF56462F44D992381BA4E81BFBE045BD0E08BE21_AdjustorThunk (void);
+extern void U3CInitializeProjectConfigAsyncU3Ed__40_SetStateMachine_m0AD1371BCCAB71EDE848E49C68400A5B212DDC82_AdjustorThunk (void);
+extern void U3CGenerateProjectConfigurationAsyncU3Ed__41_MoveNext_mDBC790EDF3EFAE1C285301576DB99B12A24E4F98_AdjustorThunk (void);
+extern void U3CGenerateProjectConfigurationAsyncU3Ed__41_SetStateMachine_mA2DA0351A1B833E16F807108A5E6C134EF6DDB6C_AdjustorThunk (void);
+extern void U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_MoveNext_m95E2BBFFA6E58A65C141CFA0B3D846913E85EE2A_AdjustorThunk (void);
+extern void U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_SetStateMachine_m80DAB7D0B51C4238986E344971298A5A52B013FE_AdjustorThunk (void);
+extern void U3CCreateDiagnosticsComponentsU3Ed__48_MoveNext_m615EBC4117B48BADFB6156231A7903C59C9540D8_AdjustorThunk (void);
+extern void U3CCreateDiagnosticsComponentsU3Ed__48_SetStateMachine_mA3C5CB517189F06D89759C4D32000F86D07FFC25_AdjustorThunk (void);
+extern void U3CGetSerializedProjectConfigurationAsyncU3Ed__49_MoveNext_m76AF454089F5F08FC424DA40DDE66B4602982158_AdjustorThunk (void);
+extern void U3CGetSerializedProjectConfigurationAsyncU3Ed__49_SetStateMachine_m7C84C3BE41874DB17831DD6C3A71E20C63C86E6B_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[12] = 
+{
+	{ 0x06000023, U3CInitializeU3Ed__35_MoveNext_mF07320CB7B98B5BC0DBCCF4D392171C77C18CF5B_AdjustorThunk },
+	{ 0x06000024, U3CInitializeU3Ed__35_SetStateMachine_mE6CF3E8B5C4CC645E62F8B574FC527B9F7D83B75_AdjustorThunk },
+	{ 0x06000025, U3CInitializeProjectConfigAsyncU3Ed__40_MoveNext_mAF56462F44D992381BA4E81BFBE045BD0E08BE21_AdjustorThunk },
+	{ 0x06000026, U3CInitializeProjectConfigAsyncU3Ed__40_SetStateMachine_m0AD1371BCCAB71EDE848E49C68400A5B212DDC82_AdjustorThunk },
+	{ 0x06000027, U3CGenerateProjectConfigurationAsyncU3Ed__41_MoveNext_mDBC790EDF3EFAE1C285301576DB99B12A24E4F98_AdjustorThunk },
+	{ 0x06000028, U3CGenerateProjectConfigurationAsyncU3Ed__41_SetStateMachine_mA2DA0351A1B833E16F807108A5E6C134EF6DDB6C_AdjustorThunk },
+	{ 0x06000029, U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_MoveNext_m95E2BBFFA6E58A65C141CFA0B3D846913E85EE2A_AdjustorThunk },
+	{ 0x0600002A, U3CGetSerializedConfigOrEmptyAsyncU3Ed__42_SetStateMachine_m80DAB7D0B51C4238986E344971298A5A52B013FE_AdjustorThunk },
+	{ 0x0600002B, U3CCreateDiagnosticsComponentsU3Ed__48_MoveNext_m615EBC4117B48BADFB6156231A7903C59C9540D8_AdjustorThunk },
+	{ 0x0600002C, U3CCreateDiagnosticsComponentsU3Ed__48_SetStateMachine_mA3C5CB517189F06D89759C4D32000F86D07FFC25_AdjustorThunk },
+	{ 0x0600002D, U3CGetSerializedProjectConfigurationAsyncU3Ed__49_MoveNext_m76AF454089F5F08FC424DA40DDE66B4602982158_AdjustorThunk },
+	{ 0x0600002E, U3CGetSerializedProjectConfigurationAsyncU3Ed__49_SetStateMachine_m7C84C3BE41874DB17831DD6C3A71E20C63C86E6B_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[46] = 
+{
+	2781,
+	2335,
+	2781,
+	2335,
+	2781,
+	2335,
+	2781,
+	2335,
+	2781,
+	2335,
+	2781,
+	2335,
+	2781,
+	2335,
+	2781,
+	2335,
+	4467,
+	1808,
+	2809,
+	2850,
+	2850,
+	2850,
+	1808,
+	4268,
+	4453,
+	2335,
+	2850,
+	584,
+	584,
+	2850,
+	2781,
+	2781,
+	2850,
+	2286,
+	2850,
+	2335,
+	2850,
+	2335,
+	2850,
+	2335,
+	2850,
+	2335,
+	2850,
+	2335,
+	2850,
+	2335,
+};
+extern const CustomAttributesCacheGenerator g_Unity_Services_Core_Registration_AttributeGenerators[];
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_Services_Core_Registration_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_Services_Core_Registration_CodeGenModule = 
+{
+	"Unity.Services.Core.Registration.dll",
+	46,
+	s_methodPointers,
+	12,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	g_Unity_Services_Core_Registration_AttributeGenerators,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};

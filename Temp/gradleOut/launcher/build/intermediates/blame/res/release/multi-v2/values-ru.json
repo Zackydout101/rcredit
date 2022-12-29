@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\MoneyConverter\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\deedl\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1196",
+                        "endColumns": "100",
+                        "endOffsets": "1292"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\deedl\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,163,268,380",
+                        "endColumns": "107,104,111,103",
+                        "endOffsets": "158,263,375,479"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "767,875,980,1092",
+                        "endColumns": "107,104,111,103",
+                        "endOffsets": "870,975,1087,1191"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\deedl\\.gradle\\caches\\transforms-2\\files-2.1\\94c7ce163fdc0fc986f5846647ee8fa5\\jetified-UniWebView\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,186,252,337,400,506,562,608,652,713",
+                        "endColumns": "68,61,65,84,62,105,55,45,43,60,53",
+                        "endOffsets": "119,181,247,332,395,501,557,603,647,708,762"
+                    }
+                }
+            ]
+        }
+    ]
+}

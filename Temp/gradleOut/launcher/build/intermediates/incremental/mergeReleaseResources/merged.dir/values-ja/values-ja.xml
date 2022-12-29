@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">認証が必要です</string>
+    <string name="CHOOSE_IMAGE">画像を選択</string>
+    <string name="DOWNLOAD_COMPLETED">ダウンロード完了</string>
+    <string name="DOWNLOAD_DESCRIPTION">ファイルを「ダウンロード」フォルダに保存します</string>
+    <string name="DOWNLOAD_STARTED">ダウンロードが開始されました。</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">外部ストレージの書き込み許可はありません。</string>
+    <string name="INVALID_URL">無効なURL</string>
+    <string name="LOADING">読み込み中…</string>
+    <string name="PASSWORD">パスワード</string>
+    <string name="SAVE_IMAGE">画像を保存</string>
+    <string name="USERNAME">ユーザー名</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"リンクをクリップボードにコピーしました"</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"リンクをコピー"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"ブラウザで開く"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"リンクの共有"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

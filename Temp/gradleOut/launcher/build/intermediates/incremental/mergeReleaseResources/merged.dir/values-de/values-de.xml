@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Erlaubnis benötigt</string>
+    <string name="CHOOSE_IMAGE">Bild auswählen</string>
+    <string name="DOWNLOAD_COMPLETED">Download abgeschlossen</string>
+    <string name="DOWNLOAD_DESCRIPTION">Speichern Sie die Datei im Ordner \"Downloads\"</string>
+    <string name="DOWNLOAD_STARTED">Der Download wurde gestartet.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Keine Schreibberechtigung für externen Speicher.</string>
+    <string name="INVALID_URL">ungültige URL</string>
+    <string name="LOADING">Wird geladen…</string>
+    <string name="PASSWORD">Passwort</string>
+    <string name="SAVE_IMAGE">Bild speichern</string>
+    <string name="USERNAME">Nutzername</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Link in Zwischenablage kopiert"</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Link kopieren"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Im Browser öffnen"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Link teilen"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Autorisation Påkrævet</string>
+    <string name="CHOOSE_IMAGE">Vælg billede</string>
+    <string name="DOWNLOAD_COMPLETED">Download afsluttet</string>
+    <string name="DOWNLOAD_DESCRIPTION">Gem filen i mappen \"Downloads\"</string>
+    <string name="DOWNLOAD_STARTED">Download startet.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Ingen tilladelse til udskrivning af ekstern lagerplads.</string>
+    <string name="INVALID_URL">ugyldig URL</string>
+    <string name="LOADING">Indlæser…</string>
+    <string name="PASSWORD">Adgangskode</string>
+    <string name="SAVE_IMAGE">Gem billede</string>
+    <string name="USERNAME">Brugernavn</string>
+    <string msgid="8230469354668895088" name="copy_toast_msg">"Linket er kopieret til udklipsholderen"</string>
+    <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Kopiér link"</string>
+    <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Åbn i browser"</string>
+    <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Del link"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

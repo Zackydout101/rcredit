@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.DefaultCompany.MoneyConverter",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 7,
+        "versionName": "0.7",
+        "outputFile": "launcher-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "resources-release.ap_",
+      "properties": {
+        "packageId": "com.DefaultCompany.MoneyConverter",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}
